@@ -1,0 +1,15 @@
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\net7.0\ExerciciosPropostos1.exe
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\net7.0\ExerciciosPropostos1.deps.json
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\net7.0\ExerciciosPropostos1.runtimeconfig.json
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\net7.0\ExerciciosPropostos1.dll
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\net7.0\ExerciciosPropostos1.pdb
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.AssemblyInfoInputs.cache
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.AssemblyInfo.cs
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.dll
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\refint\ExerciciosPropostos1.dll
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.pdb
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.genruntimeconfig.cache
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ref\ExerciciosPropostos1.dll
+C:\Users\Caio\Desktop\ExerciciosPropostos1\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\net7.0\ExerciciosPropostos1.sourcelink.json
